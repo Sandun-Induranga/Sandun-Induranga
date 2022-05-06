@@ -48,5 +48,6 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandun-induranga&" alt="sandun-induranga" /></p>
 
-https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif
+<a href="https://github.com/Sandun-Induranga/Sandun-Induranga/blob/output/github-contribution-grid-snake.gif"></a>
+
 

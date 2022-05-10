@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://www.lambdatest.com/resources/images/ezgif.com-gif-maker-16.gif" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@Sandun60" target="blank"><img src="https://img.shields.io/twitter/follow/sanduninduranga?logo=twitter&style=for-the-badge" alt="sanduninduranga" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Sandun60" target="blank"><img src="https://img.shields.io/twitter/follow/sanduninduranga?logo=twitter&style=for-the-badge" alt="sanduninduranga" /></a> </p>
 
 - 🔭 I’m currently working on **Fiverr**
 
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@Sandun60" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sanduninduranga" height="30" width="40" /></a>
+<a href="https://twitter.com/Sandun60" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sanduninduranga" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sandun induranga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandun induranga" height="30" width="40" /></a>
 <a href="https://fb.com/sandun induranga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sandun induranga" height="30" width="40" /></a>
 <a href="https://instagram.com/sandun.induranga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sandun.induranga" height="30" width="40" /></a>

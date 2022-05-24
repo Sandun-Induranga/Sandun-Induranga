@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://www.lambdatest.com/resources/images/ezgif.com-gif-maker-16.gif" /> </p>
 
-<p align="left"> <a href="https://twitter.com/Sandun60" target="blank"><img src="https://img.shields.io/twitter/follow/sanduninduranga?logo=twitter&style=for-the-badge" alt="sanduninduranga" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@Sandun60" target="blank"><img src="https://img.shields.io/twitter/follow/sanduninduranga?logo=twitter&style=for-the-badge" alt="sanduninduranga" /></a> </p>
 
 - 🔭 I’m currently working on **Fiverr**
 

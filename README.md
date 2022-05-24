@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Programming**
 
-- 📫 How to reach me **[linkedin.com/in/sandun-induranga-1bb74a221/](https://)**
+- 📫 How to reach me **https://linkedin.com/in/sandun-induranga-1bb74a221**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

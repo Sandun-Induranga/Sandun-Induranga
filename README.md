@@ -11,6 +11,8 @@
 
 - 🔭 I’m currently working on **Fiverr**
 
+- 🔭 I’m a student at **Institute Of Software Engineering**
+
 - 🌱 I’m currently learning **Hibernate**
 
 - 💬 Ask me about **Java, Python, C++**

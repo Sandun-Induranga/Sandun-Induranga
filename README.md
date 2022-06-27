@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Java, Python, C++**
 
-- 📫 How to reach me **[linkedin.com/in/sandun-induranga-1bb74a221/](https://www.linkedin.com/in/sandun-induranga-1bb74a221/)**
+- 📫 How to reach me **sanduninduranga2001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

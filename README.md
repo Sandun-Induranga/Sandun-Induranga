@@ -13,7 +13,7 @@
 
 - 👨‍💻 I’m a student at **IJSE - Institute Of Software Engineering**
 
-- 🌱 I’m currently learning **Spring**
+- 🌱 I’m currently learning **Web Development**
 
 - 💬 Ask me about **Java, Python, C++**
 

@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/sandun60" target="blank"><img src="https://img.shields.io/twitter/follow/sandun60?logo=twitter&style=for-the-badge" alt="sandun60" /></a> </p>
 
-- 🔭 I’m currently working on **Fiverr**
+- 🔭 Nick Name **Sandu**
 
 - 👨‍💻 I’m a student at **IJSE - Institute Of Software Engineering**
 

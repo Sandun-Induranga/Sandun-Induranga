@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sandun Induranga</h1>
 <h3 align="center">A full stack developer from Sri Lanka</h3>
 
-<p align="center"> <img src="https://www.lambdatest.com/resources/images/ezgif.com-gif-maker-16.gif" /> </p>
+![Frame 1](https://user-images.githubusercontent.com/88975401/191432968-628bf4e0-75d6-4712-9cd7-e821c1309bea.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandun-induranga&label=Profile%20views&color=0e75b6&style=flat" alt="sandun-induranga" /> </p>
 

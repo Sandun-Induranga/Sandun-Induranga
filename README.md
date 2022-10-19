@@ -7,6 +7,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandun-induranga" alt="sandun-induranga" /></a> </p>
 
+![image](https://user-images.githubusercontent.com/88975401/196599390-a57d4f7f-98ee-4f41-a505-5825602a07b2.png)
+
+
 <p align="left"> <a href="https://twitter.com/sandun60" target="blank"><img src="https://img.shields.io/twitter/follow/sandun60?logo=twitter&style=for-the-badge" alt="sandun60" /></a> </p>
 
 - 🔭 Nick Name **Sandu**

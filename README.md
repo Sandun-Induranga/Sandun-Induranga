@@ -16,7 +16,7 @@
 
 - 👨‍💻 I’m a student at **IJSE - Institute Of Software Engineering**
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Spring Framework**
 
 - 💬 Ask me about **Java, Python, C++**
 

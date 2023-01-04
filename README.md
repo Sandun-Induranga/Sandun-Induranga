@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **Spring Framework**
 
-- 💬 Ask me about **Java, Python, C++**
+- 💬 Ask me about **Java, HTML, CSS, JS, Python**
 
 - 📫 How to reach me **sanduninduranga2001@gmail.com**
 

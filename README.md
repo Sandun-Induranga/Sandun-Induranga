@@ -16,7 +16,7 @@
 
 - 👨‍💻 I’m a student at **IJSE - Institute Of Software Engineering**
 
-- 🌱 I’m currently learning **Spring Framework**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 💬 Ask me about **Java, HTML, CSS, JS, Spring, TS, React, Python**
 

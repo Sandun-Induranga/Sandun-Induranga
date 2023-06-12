@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandun-induranga&label=Profile%20views&color=0e75b6&style=flat" alt="sandun-induranga" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandun-induranga" alt="sandun-induranga" /></a> </p>
-
 [![committers.top badge](https://user-badge.committers.top/sri_lanka/Sandun-Induranga.svg)](https://user-badge.committers.top/sri_lanka/Sandun-Induranga)
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandun-induranga" alt="sandun-induranga" /></a> </p>
 
 ![image](https://user-images.githubusercontent.com/88975401/196599390-a57d4f7f-98ee-4f41-a505-5825602a07b2.png)
 

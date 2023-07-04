@@ -18,7 +18,7 @@
 
 - 👨‍💻 I’m a student at **IJSE - Institute Of Software Engineering**
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Mobile App Development**
 
 - 💬 Ask me about **Java, HTML, CSS, JS, Spring, TS, React, Python**
 

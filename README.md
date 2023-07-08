@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently learning **Mobile App Development**
 
-- 💬 Ask me about **Java, HTML, CSS, JS, Spring, TS, React, Python**
+- 💬 Ask me about **Java, HTML, CSS, JS, Spring, Spring Boot TS, React, Python**
 
 - 📫 How to reach me **sanduninduranga2001@gmail.com**
 

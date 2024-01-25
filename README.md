@@ -18,7 +18,7 @@
 
 - 👨‍💻 I’m a student at **IJSE - Institute Of Software Engineering**
 
-- 🌱 I’m currently learning **Flutter, Dart**
+- 🌱 I’m currently learning **Fast-API, Machine Learning, AWS, Docker**
 
 - 💬 Ask me about **Java, HTML, CSS, JS, Spring, Spring Boot TS, React, Python**
 

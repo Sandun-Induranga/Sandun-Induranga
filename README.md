@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently learning **Fast-API, Machine Learning, AWS, Docker**
 
-- 💬 Ask me about **Java, HTML, CSS, JS, Spring, Spring Boot TS, React, Python**
+- 💬 Ask me about **Java, HTML, CSS, JS, Spring, Spring Boot TS, React, Python, Flutter**
 
 - 📫 How to reach me **sanduninduranga2001@gmail.com**
 

@@ -16,7 +16,7 @@
 
 - 🔭 Nick Name **Sandu**
 
-- 👨‍💻 I’m a student at **IJSE - Institute Of Software Engineering**
+- 👨‍💻 I’m a student at **London Metropolitan University**
 
 - 🌱 I’m currently learning **Fast-API, Machine Learning, AWS, Docker**
 

@@ -18,9 +18,9 @@
 
 - 👨‍💻 I’m a student at **London Metropolitan University**
 
-- 🌱 I’m currently learning **Fast-API, Machine Learning, AWS, Docker**
+- 🌱 I’m currently learning **AI, Kotlin, APS.NET**
 
-- 💬 Ask me about **Java, HTML, CSS, JS, Spring, Spring Boot TS, React, Python, Flutter**
+- 💬 Ask me about **Flutter, Java, HTML, CSS, JS, Spring, Spring Boot, TS, React, Python**
 
 - 📫 How to reach me **sanduninduranga2001@gmail.com**
 

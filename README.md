@@ -18,7 +18,7 @@
 
 - 👨‍💻 I’m a student at **London Metropolitan University**
 
-- 🌱 I’m currently learning **AI, Kotlin, APS.NET**
+- 🌱 I’m currently learning **AI, Kotlin, ASP.NET**
 
 - 💬 Ask me about **Flutter, Java, HTML, CSS, JS, Spring, Spring Boot, TS, React, Python**
 

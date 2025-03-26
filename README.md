@@ -1,4 +1,7 @@
 ## **📜 About Me**
+
+![212746035-d5c61762-973c-44c0-aec7-887f3b7690e3](https://github.com/user-attachments/assets/394034b6-ebfd-4179-b7dc-e17306c8aa01)
+
 - 🔭 **Nick Name:** Sandu
 - 👨‍🎓 **BEng(Hons) in Software Engineering | London Metropolitan University**
 - 🌱 **Currently Learning:** AI, Kotlin, ASP.NET

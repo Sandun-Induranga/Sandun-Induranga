@@ -1,10 +1,11 @@
+<h1 align="center">Hi 👋, I'm Sandun Induranga</h1>
+<h3 align="center">A Mobile & Web Developer from Sri Lanka 🇱🇰</h3>
+<p align="center"> <img src="https://www.lambdatest.com/resources/images/ezgif.com-gif-maker-16.gif" /> </p>
+
 ## **📜 About Me**
-
-![212746035-d5c61762-973c-44c0-aec7-887f3b7690e3](https://github.com/user-attachments/assets/394034b6-ebfd-4179-b7dc-e17306c8aa01)
-
 - 🔭 **Nick Name:** Sandu
 - 👨‍🎓 **BEng(Hons) in Software Engineering | London Metropolitan University**
-- 🌱 **Currently Learning:** AI, Kotlin, ASP.NET
+- 🌱 **Currently Learning:** AI, Kotlin
 - 🛠 **Expertise:** Full-Stack Development, Mobile App Development, Cloud Services, and Software Architecture.
 - 💬 **Ask Me About:** Flutter, Java, JavaScript, TypeScript, React, Spring Boot, Python, .NET, Firebase.
 - 📫 **Reach Me:** sanduninduranga2001@gmail.com
